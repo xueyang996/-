@@ -14,3 +14,6 @@ dva：[开发框架dva地址](https://github.com/dvajs/dva)
 2. 新功能开发完成，提交代码，发起merge请求（请求合并到master或develop分支）
 3. merge之前，为了防止冲突，建议将master分支的最新代码先merge到自己的开发分支
 4. merge之后，删除自己的分支
+
+# 学习文档
+综合性介绍：[综合性介绍](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
