@@ -15,6 +15,12 @@ dva：[开发框架dva地址](https://github.com/dvajs/dva)
 3. merge之前，为了防止冲突，建议将master分支的最新代码先merge到自己的开发分支
 4. merge之后，删除自己的分支
 
+# npm相关问题
+1. npm切换淘宝镜像 npm --registry https://registry.npm.taobao.org info underscore 
+
+# git 相关问题
+1. gitlab 配置ssh，务必在git bash中执行命令
+
 # 开发软件推荐
 1.vscode：[强烈推荐](https://code.visualstudio.com/)
 安装插件： Eslint 、 Git History、 Vetur等
