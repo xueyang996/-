@@ -15,5 +15,12 @@ dva：[开发框架dva地址](https://github.com/dvajs/dva)
 3. merge之前，为了防止冲突，建议将master分支的最新代码先merge到自己的开发分支
 4. merge之后，删除自己的分支
 
+# 开发软件推荐
+1.vscode：[强烈推荐](https://code.visualstudio.com/)
+安装插件： Eslint 、 Git History、 Vetur等
+
+# 前端调试钉钉
+1.钉钉RC版 :[调试后台页面必备](https://open-doc.dingtalk.com/doc.htm#?source=robot&treeId=176&docId=104958&docType=1)
+
 # 学习文档
 综合性介绍：[综合性介绍](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
